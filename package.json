@@ -2,7 +2,7 @@
   "name": "testing",
   "version": "0.1.0",
   "private": true,
-  "home":"http://nagaraju440.github.io/finaltesting1",
+  "home": "http://nagaraju440.github.io/finaltesting1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
